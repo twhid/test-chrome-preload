@@ -1,0 +1,14 @@
+{
+  "name": "test-chrome-preload",
+  "version": "1.0.0",
+  "description": "Testing Chrome warnings regarding preloaded resources.",
+  "main": "index.js",
+  "author": "Tim Whidden <tim@1stdibs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
